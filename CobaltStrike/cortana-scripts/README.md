@@ -1,0 +1,1 @@
+本项目只兼容Cobalt Strike 2.x。

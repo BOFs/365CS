@@ -1,12 +1,12 @@
 # 365CS
 
-这里记录收集一些优秀的CobaltStrike相关资源。这些项目未检测是否存在后门，请在虚拟机里面运行。
+这里记录收集一些优秀的CobaltStrike相关资源。这些项目大部分都未检测是否存在后门，请在虚拟机里面运行。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。但是抱着学习的态度，对于一些优秀的Scripts即使无法兼容4.0也会进行收集整理。CobaltStrike思想是红队的未来。
 
-原仓库由于DMCA政策被删除。现改名为365CS重新发布。另一方面由于CobaltStrike在项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。
+原仓库由于DMCA政策被删除。现改名为365CS重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年12月18日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年12月20日。
 
 ## 0x01-持久上线
 
@@ -125,4 +125,5 @@
 - https://github.com/breakid/SharpUtils
 - https://github.com/rmikehodges/cs-ssl-gen
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec
+- https://github.com/z1un/Z1-AggressorScripts
 

@@ -6,7 +6,7 @@
 
 原仓库由于DMCA政策被删除。现改名为365CS重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年12月22日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年12月23日。
 
 ## 0x01-持久上线
 
@@ -127,4 +127,5 @@
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec
 - https://github.com/z1un/Z1-AggressorScripts
 - https://github.com/Te-k/cobaltstrike
+- https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet
 

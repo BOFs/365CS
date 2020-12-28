@@ -6,7 +6,7 @@
 
 原仓库由于DMCA政策被删除。现改名为365CS重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年12月27日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年12月28日。
 
 ## 0x01-持久上线
 
@@ -102,7 +102,6 @@
 - https://github.com/CCob/BOF.NET
 - https://github.com/Apr4h/CobaltStrikeScan
 - https://github.com/rasta-mouse/Aggressor-Script
-- https://github.com/killswitch-GUI/CobaltStrike-ToolKit
 - https://github.com/bluscreenofjeff/AggressorScripts
 - https://github.com/EncodeGroup/AggressiveGadgetToJScript
 - https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection

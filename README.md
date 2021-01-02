@@ -132,4 +132,5 @@
 - https://wiki.ioin.in/url/G7PK
 - https://github.com/RedXRanger/StageStrike
 - https://github.com/outflanknl/Zipper
+- https://github.com/Ridter/CS_Chinese_support
 

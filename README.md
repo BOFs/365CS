@@ -134,4 +134,5 @@
 - https://github.com/outflanknl/Zipper
 - https://github.com/Ridter/CS_Chinese_support
 - https://github.com/0xthirteen/MoveKit
+- https://github.com/SecIdiot/Beacon
 

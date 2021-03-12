@@ -6,7 +6,7 @@
 
 原仓库由于DMCA政策被删除。现改名为365CS重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。作者：[0e0w](https://github.com/0e0w/365CS)
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2021年3月9日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2021年3月11日。
 
 ## 0x01-持久上线
 
@@ -141,4 +141,5 @@
 - https://github.com/xx0hcd/Malleable-C2-Profiles
 - https://github.com/Ridter/cs_custom_404
 - https://github.com/nccgroup/pybeacon
+- https://github.com/Rvn0xsy/Linco2
 

@@ -6,7 +6,7 @@
 
 原仓库由于DMCA政策被删除。现改名为365CS重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。作者：[0e0w](https://github.com/0e0w/365CS)
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2021年3月17日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2021年3月30日。
 
 ## 0x01-持久上线
 
@@ -78,7 +78,6 @@
 - https://github.com/threatexpress/malleable-c2
 - https://github.com/isafe/cobaltstrike_brute
 - https://github.com/ryanohoro/csbruter
-- https://github.com/0xthirteen/MoveKit
 - https://github.com/1135/1135-CobaltStrike-ToolKit
 - https://github.com/cube0x0/SharpeningCobaltStrike
 - https://github.com/Cliov/Arsenal

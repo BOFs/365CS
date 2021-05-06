@@ -1,10 +1,10 @@
 # Cobalt Strike
 
-这里记录收集一些优秀的CobaltStrike相关资源。这些项目大部分都未检测是否存在后门，请在虚拟机里面运行。
+这里记录收集一些优秀的CobaltStrike资源。这些项目大部分都未检测是否存在后门，请务必在虚拟机里面运行。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。但是抱着学习的态度，对于一些优秀的Scripts即使无法兼容4.0也会进行收集整理。CobaltStrike思想是红队的未来。
 
-原仓库由于DMCA政策被删除。现改名为365CS重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。作者：[0e0w](https://github.com/0e0w/365CS)
+[原仓库](https://github.com/0e0w/CobaltStrike)由于DMCA政策被删除。现改名为[365CS](https://github.com/0e0w/CobaltStrike)重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。作者：[0e0w](https://github.com/0e0w/365CS)
 
 本项目创建时间为2020年8月8日。最近的一次更新时间为2021年5月6日。
 

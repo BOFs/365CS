@@ -6,7 +6,7 @@
 
 [原仓库](https://github.com/0e0w/CobaltStrike)由于DMCA政策被删除。现改名为[365CS](https://github.com/0e0w/CobaltStrike)重新发布。CobaltStrike在工作中项目实施中越来越重要，所以本项目计划重新整理中。重新整理发布不会违法DMCA的相关政策。作者：[0e0w](https://github.com/0e0w/365CS)
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2021年7月7日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2021年7月18日。
 
 ## 0x01-持久上线
 
@@ -155,4 +155,5 @@
 - https://github.com/xorrior/raven
 - https://github.com/verctor/Cobalt_Homework
 - https://github.com/xinbailu/TiEtwAgent
+- https://github.com/GeorgePatsias/ScareCro
 

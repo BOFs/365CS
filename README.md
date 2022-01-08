@@ -29,6 +29,7 @@
 
 ## 0x04-综合框架
 
+- [HAETAE](https://github.com/BOFs/HAETAE)
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Ladon](https://github.com/k8gege/Ladon)
 - [Aggressor](https://github.com/k8gege/Aggressor)
